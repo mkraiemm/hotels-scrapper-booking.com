@@ -94,6 +94,10 @@ async def scrape_url(url: str, request: Request):
         # Log the request with status code, regardless of success or failure
         log_request(url, request, status_code)
 
+@app.get("/")
+async def health_check():
+    return {"status": "UP", "message": "Web scraper is running"}
+
 def log_request(url: str, request: Request, status_code: int):
     timestamp = datetime.now().isoformat()
     ip_address = request.client.host
