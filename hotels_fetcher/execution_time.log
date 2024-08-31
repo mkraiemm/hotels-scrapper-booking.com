@@ -1,0 +1,637 @@
+2024-08-31 22:31:59,016 - Starting to fetch reviews for hotel ID: 25002
+2024-08-31 22:31:59,022 - Starting to fetch reviews for hotel ID: 1383555
+2024-08-31 22:31:59,022 - Starting to fetch reviews for hotel ID: 1097088
+2024-08-31 22:31:59,023 - Starting to fetch reviews for hotel ID: 1522663
+2024-08-31 22:32:00,222 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelDetails with params: {'hotel_id': '1522663', 'arrival_date': '2024-10-30', 'departure_date': '2024-11-04', 'languagecode': 'en-us'}
+2024-08-31 22:32:00,222 - Fetched hotel details for hotel ID: 1522663
+2024-08-31 22:32:00,370 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelDetails with params: {'hotel_id': '1383555', 'arrival_date': '2024-10-30', 'departure_date': '2024-11-04', 'languagecode': 'en-us'}
+2024-08-31 22:32:00,371 - Fetched hotel details for hotel ID: 1383555
+2024-08-31 22:32:00,429 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelDetails with params: {'hotel_id': '25002', 'arrival_date': '2024-10-30', 'departure_date': '2024-11-04', 'languagecode': 'en-us'}
+2024-08-31 22:32:00,430 - Fetched hotel details for hotel ID: 25002
+2024-08-31 22:32:00,469 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelDetails with params: {'hotel_id': '1097088', 'arrival_date': '2024-10-30', 'departure_date': '2024-11-04', 'languagecode': 'en-us'}
+2024-08-31 22:32:00,469 - Fetched hotel details for hotel ID: 1097088
+2024-08-31 22:32:01,138 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '1', 'languagecode': 'en-gb'}
+2024-08-31 22:32:01,139 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:01,260 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '1', 'languagecode': 'en-gb'}
+2024-08-31 22:32:01,262 - Fetched 25 reviews for hotel ID: 1383555 in language en-gb
+2024-08-31 22:32:01,424 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '1', 'languagecode': 'en-gb'}
+2024-08-31 22:32:01,425 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:01,460 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '1', 'languagecode': 'en-gb'}
+2024-08-31 22:32:01,460 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:02,000 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '2', 'languagecode': 'en-gb'}
+2024-08-31 22:32:02,001 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:02,151 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '2', 'languagecode': 'en-gb'}
+2024-08-31 22:32:02,152 - Fetched 25 reviews for hotel ID: 1383555 in language en-gb
+2024-08-31 22:32:02,363 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '2', 'languagecode': 'en-gb'}
+2024-08-31 22:32:02,363 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:02,668 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '2', 'languagecode': 'en-gb'}
+2024-08-31 22:32:02,669 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:02,882 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '3', 'languagecode': 'en-gb'}
+2024-08-31 22:32:02,883 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:03,113 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '3', 'languagecode': 'en-gb'}
+2024-08-31 22:32:03,113 - Fetched 25 reviews for hotel ID: 1383555 in language en-gb
+2024-08-31 22:32:03,372 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '3', 'languagecode': 'en-gb'}
+2024-08-31 22:32:03,373 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:03,630 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '3', 'languagecode': 'en-gb'}
+2024-08-31 22:32:03,631 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:03,776 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '4', 'languagecode': 'en-gb'}
+2024-08-31 22:32:03,777 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:04,007 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '4', 'languagecode': 'en-gb'}
+2024-08-31 22:32:04,007 - Fetched 25 reviews for hotel ID: 1383555 in language en-gb
+2024-08-31 22:32:04,344 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '4', 'languagecode': 'en-gb'}
+2024-08-31 22:32:04,344 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:04,479 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '4', 'languagecode': 'en-gb'}
+2024-08-31 22:32:04,480 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:04,733 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '5', 'languagecode': 'en-gb'}
+2024-08-31 22:32:04,733 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:05,205 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '5', 'languagecode': 'en-gb'}
+2024-08-31 22:32:05,206 - Fetched 25 reviews for hotel ID: 1383555 in language en-gb
+2024-08-31 22:32:05,371 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '5', 'languagecode': 'en-gb'}
+2024-08-31 22:32:05,371 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:05,477 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '5', 'languagecode': 'en-gb'}
+2024-08-31 22:32:05,478 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:05,637 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '6', 'languagecode': 'en-gb'}
+2024-08-31 22:32:05,638 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:06,241 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '6', 'languagecode': 'en-gb'}
+2024-08-31 22:32:06,242 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:06,607 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '7', 'languagecode': 'en-gb'}
+2024-08-31 22:32:06,608 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:06,669 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '6', 'languagecode': 'en-gb'}
+2024-08-31 22:32:06,669 - Fetched 25 reviews for hotel ID: 1383555 in language en-gb
+2024-08-31 22:32:07,118 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '7', 'languagecode': 'en-gb'}
+2024-08-31 22:32:07,119 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:07,141 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '6', 'languagecode': 'en-gb'}
+2024-08-31 22:32:07,142 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:07,488 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '8', 'languagecode': 'en-gb'}
+2024-08-31 22:32:07,489 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:07,966 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '8', 'languagecode': 'en-gb'}
+2024-08-31 22:32:07,967 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:07,974 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '7', 'languagecode': 'en-gb'}
+2024-08-31 22:32:07,974 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:08,295 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '7', 'languagecode': 'en-gb'}
+2024-08-31 22:32:08,296 - Fetched 25 reviews for hotel ID: 1383555 in language en-gb
+2024-08-31 22:32:08,341 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '9', 'languagecode': 'en-gb'}
+2024-08-31 22:32:08,342 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:08,883 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '9', 'languagecode': 'en-gb'}
+2024-08-31 22:32:08,884 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:08,922 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '8', 'languagecode': 'en-gb'}
+2024-08-31 22:32:08,923 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:09,043 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '8', 'languagecode': 'en-gb'}
+2024-08-31 22:32:09,043 - Fetched 25 reviews for hotel ID: 1383555 in language en-gb
+2024-08-31 22:32:09,207 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '10', 'languagecode': 'en-gb'}
+2024-08-31 22:32:09,208 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:09,757 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '10', 'languagecode': 'en-gb'}
+2024-08-31 22:32:09,758 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:09,791 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '9', 'languagecode': 'en-gb'}
+2024-08-31 22:32:09,792 - Fetched 25 reviews for hotel ID: 1383555 in language en-gb
+2024-08-31 22:32:09,796 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '9', 'languagecode': 'en-gb'}
+2024-08-31 22:32:09,796 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:10,071 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '11', 'languagecode': 'en-gb'}
+2024-08-31 22:32:10,072 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:10,612 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '10', 'languagecode': 'en-gb'}
+2024-08-31 22:32:10,612 - Fetched 25 reviews for hotel ID: 1383555 in language en-gb
+2024-08-31 22:32:10,653 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '11', 'languagecode': 'en-gb'}
+2024-08-31 22:32:10,654 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:10,769 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '10', 'languagecode': 'en-gb'}
+2024-08-31 22:32:10,770 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:11,040 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '12', 'languagecode': 'en-gb'}
+2024-08-31 22:32:11,040 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:11,323 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '11', 'languagecode': 'en-gb'}
+2024-08-31 22:32:11,324 - Fetched 25 reviews for hotel ID: 1383555 in language en-gb
+2024-08-31 22:32:11,582 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '12', 'languagecode': 'en-gb'}
+2024-08-31 22:32:11,584 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:11,634 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '11', 'languagecode': 'en-gb'}
+2024-08-31 22:32:11,635 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:11,872 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '13', 'languagecode': 'en-gb'}
+2024-08-31 22:32:11,872 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:11,919 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '12', 'languagecode': 'en-gb'}
+2024-08-31 22:32:11,919 - Fetched 7 reviews for hotel ID: 1383555 in language en-gb
+2024-08-31 22:32:12,422 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '13', 'languagecode': 'en-gb'}
+2024-08-31 22:32:12,423 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:12,614 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '13', 'languagecode': 'en-gb'}
+2024-08-31 22:32:12,614 - No more reviews found for hotel ID: 1383555 after page 13 in language en-gb
+2024-08-31 22:32:12,615 - Total reviews fetched for hotel ID: 1383555 in language en-gb: 282
+2024-08-31 22:32:12,615 - Total filtered reviews for hotel ID: 1383555 in language en-gb: 2
+2024-08-31 22:32:12,728 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '14', 'languagecode': 'en-gb'}
+2024-08-31 22:32:12,729 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:13,210 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '12', 'languagecode': 'en-gb'}
+2024-08-31 22:32:13,211 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:13,299 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '14', 'languagecode': 'en-gb'}
+2024-08-31 22:32:13,300 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:13,377 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '1', 'languagecode': 'en-us'}
+2024-08-31 22:32:13,377 - Fetched 25 reviews for hotel ID: 1383555 in language en-us
+2024-08-31 22:32:13,600 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '15', 'languagecode': 'en-gb'}
+2024-08-31 22:32:13,600 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:14,096 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '13', 'languagecode': 'en-gb'}
+2024-08-31 22:32:14,097 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:14,267 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '15', 'languagecode': 'en-gb'}
+2024-08-31 22:32:14,268 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:14,552 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '16', 'languagecode': 'en-gb'}
+2024-08-31 22:32:14,552 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:15,018 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '14', 'languagecode': 'en-gb'}
+2024-08-31 22:32:15,018 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:15,100 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '16', 'languagecode': 'en-gb'}
+2024-08-31 22:32:15,102 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:15,282 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '2', 'languagecode': 'en-us'}
+2024-08-31 22:32:15,283 - Fetched 25 reviews for hotel ID: 1383555 in language en-us
+2024-08-31 22:32:15,420 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '17', 'languagecode': 'en-gb'}
+2024-08-31 22:32:15,421 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:16,143 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '3', 'languagecode': 'en-us'}
+2024-08-31 22:32:16,144 - Fetched 25 reviews for hotel ID: 1383555 in language en-us
+2024-08-31 22:32:16,223 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '17', 'languagecode': 'en-gb'}
+2024-08-31 22:32:16,223 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:16,290 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '18', 'languagecode': 'en-gb'}
+2024-08-31 22:32:16,292 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:16,401 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '15', 'languagecode': 'en-gb'}
+2024-08-31 22:32:16,402 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:17,038 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '4', 'languagecode': 'en-us'}
+2024-08-31 22:32:17,039 - Fetched 25 reviews for hotel ID: 1383555 in language en-us
+2024-08-31 22:32:17,092 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '18', 'languagecode': 'en-gb'}
+2024-08-31 22:32:17,092 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:17,154 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '19', 'languagecode': 'en-gb'}
+2024-08-31 22:32:17,155 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:17,286 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '16', 'languagecode': 'en-gb'}
+2024-08-31 22:32:17,286 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:17,967 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '5', 'languagecode': 'en-us'}
+2024-08-31 22:32:17,968 - Fetched 25 reviews for hotel ID: 1383555 in language en-us
+2024-08-31 22:32:18,139 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '20', 'languagecode': 'en-gb'}
+2024-08-31 22:32:18,140 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:18,162 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '17', 'languagecode': 'en-gb'}
+2024-08-31 22:32:18,163 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:18,444 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '19', 'languagecode': 'en-gb'}
+2024-08-31 22:32:18,445 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:18,758 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '6', 'languagecode': 'en-us'}
+2024-08-31 22:32:18,758 - Fetched 25 reviews for hotel ID: 1383555 in language en-us
+2024-08-31 22:32:18,967 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '18', 'languagecode': 'en-gb'}
+2024-08-31 22:32:18,968 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:19,202 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '21', 'languagecode': 'en-gb'}
+2024-08-31 22:32:19,213 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:19,322 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '20', 'languagecode': 'en-gb'}
+2024-08-31 22:32:19,323 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:19,457 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '7', 'languagecode': 'en-us'}
+2024-08-31 22:32:19,458 - Fetched 25 reviews for hotel ID: 1383555 in language en-us
+2024-08-31 22:32:19,668 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '19', 'languagecode': 'en-gb'}
+2024-08-31 22:32:19,669 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:20,059 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '22', 'languagecode': 'en-gb'}
+2024-08-31 22:32:20,059 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:20,196 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '21', 'languagecode': 'en-gb'}
+2024-08-31 22:32:20,197 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:20,225 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '8', 'languagecode': 'en-us'}
+2024-08-31 22:32:20,226 - Fetched 25 reviews for hotel ID: 1383555 in language en-us
+2024-08-31 22:32:20,399 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '20', 'languagecode': 'en-gb'}
+2024-08-31 22:32:20,399 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:20,930 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '23', 'languagecode': 'en-gb'}
+2024-08-31 22:32:20,931 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:21,061 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '22', 'languagecode': 'en-gb'}
+2024-08-31 22:32:21,062 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:21,099 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '9', 'languagecode': 'en-us'}
+2024-08-31 22:32:21,099 - Fetched 25 reviews for hotel ID: 1383555 in language en-us
+2024-08-31 22:32:21,743 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '21', 'languagecode': 'en-gb'}
+2024-08-31 22:32:21,743 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:21,744 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '24', 'languagecode': 'en-gb'}
+2024-08-31 22:32:21,744 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:21,862 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '10', 'languagecode': 'en-us'}
+2024-08-31 22:32:21,862 - Fetched 25 reviews for hotel ID: 1383555 in language en-us
+2024-08-31 22:32:21,986 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '23', 'languagecode': 'en-gb'}
+2024-08-31 22:32:21,988 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:22,459 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '22', 'languagecode': 'en-gb'}
+2024-08-31 22:32:22,460 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:22,597 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '25', 'languagecode': 'en-gb'}
+2024-08-31 22:32:22,597 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:22,793 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '11', 'languagecode': 'en-us'}
+2024-08-31 22:32:22,794 - Fetched 25 reviews for hotel ID: 1383555 in language en-us
+2024-08-31 22:32:22,864 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '24', 'languagecode': 'en-gb'}
+2024-08-31 22:32:22,865 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:23,277 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '23', 'languagecode': 'en-gb'}
+2024-08-31 22:32:23,277 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:23,454 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '26', 'languagecode': 'en-gb'}
+2024-08-31 22:32:23,455 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:23,640 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '12', 'languagecode': 'en-us'}
+2024-08-31 22:32:23,640 - Fetched 7 reviews for hotel ID: 1383555 in language en-us
+2024-08-31 22:32:23,761 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '25', 'languagecode': 'en-gb'}
+2024-08-31 22:32:23,763 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:24,009 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '24', 'languagecode': 'en-gb'}
+2024-08-31 22:32:24,009 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:24,248 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '27', 'languagecode': 'en-gb'}
+2024-08-31 22:32:24,249 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:24,656 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '26', 'languagecode': 'en-gb'}
+2024-08-31 22:32:24,656 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:24,719 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1383555', 'sort_option_id': 'sort_most_relevant', 'page_number': '13', 'languagecode': 'en-us'}
+2024-08-31 22:32:24,719 - No more reviews found for hotel ID: 1383555 after page 13 in language en-us
+2024-08-31 22:32:24,720 - Total reviews fetched for hotel ID: 1383555 in language en-us: 282
+2024-08-31 22:32:24,720 - Total filtered reviews for hotel ID: 1383555 in language en-us: 2
+2024-08-31 22:32:24,720 - Completed fetching reviews for hotel ID: 1383555. Total reviews fetched: 4
+2024-08-31 22:32:24,919 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '25', 'languagecode': 'en-gb'}
+2024-08-31 22:32:24,919 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:24,981 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '28', 'languagecode': 'en-gb'}
+2024-08-31 22:32:24,982 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:25,519 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '27', 'languagecode': 'en-gb'}
+2024-08-31 22:32:25,520 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:25,719 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '29', 'languagecode': 'en-gb'}
+2024-08-31 22:32:25,720 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:26,147 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '26', 'languagecode': 'en-gb'}
+2024-08-31 22:32:26,147 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:26,340 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '28', 'languagecode': 'en-gb'}
+2024-08-31 22:32:26,340 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:26,529 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '30', 'languagecode': 'en-gb'}
+2024-08-31 22:32:26,529 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:27,024 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '27', 'languagecode': 'en-gb'}
+2024-08-31 22:32:27,024 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:27,059 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '29', 'languagecode': 'en-gb'}
+2024-08-31 22:32:27,059 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:27,307 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '31', 'languagecode': 'en-gb'}
+2024-08-31 22:32:27,308 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:27,778 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '30', 'languagecode': 'en-gb'}
+2024-08-31 22:32:27,778 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:27,812 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '28', 'languagecode': 'en-gb'}
+2024-08-31 22:32:27,812 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:28,011 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '32', 'languagecode': 'en-gb'}
+2024-08-31 22:32:28,012 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:28,504 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '29', 'languagecode': 'en-gb'}
+2024-08-31 22:32:28,504 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:28,743 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '33', 'languagecode': 'en-gb'}
+2024-08-31 22:32:28,744 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:28,850 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '31', 'languagecode': 'en-gb'}
+2024-08-31 22:32:28,850 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:29,322 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '30', 'languagecode': 'en-gb'}
+2024-08-31 22:32:29,322 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:29,526 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '34', 'languagecode': 'en-gb'}
+2024-08-31 22:32:29,527 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:29,747 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '32', 'languagecode': 'en-gb'}
+2024-08-31 22:32:29,747 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:30,288 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '35', 'languagecode': 'en-gb'}
+2024-08-31 22:32:30,288 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:30,502 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '33', 'languagecode': 'en-gb'}
+2024-08-31 22:32:30,502 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:30,848 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '31', 'languagecode': 'en-gb'}
+2024-08-31 22:32:30,849 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:31,114 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '36', 'languagecode': 'en-gb'}
+2024-08-31 22:32:31,114 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:31,256 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '34', 'languagecode': 'en-gb'}
+2024-08-31 22:32:31,256 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:31,613 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '32', 'languagecode': 'en-gb'}
+2024-08-31 22:32:31,614 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:31,823 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '37', 'languagecode': 'en-gb'}
+2024-08-31 22:32:31,823 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:31,988 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '35', 'languagecode': 'en-gb'}
+2024-08-31 22:32:31,989 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:32,333 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '33', 'languagecode': 'en-gb'}
+2024-08-31 22:32:32,333 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:32,715 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '36', 'languagecode': 'en-gb'}
+2024-08-31 22:32:32,715 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:32,786 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '38', 'languagecode': 'en-gb'}
+2024-08-31 22:32:32,786 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:33,120 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '34', 'languagecode': 'en-gb'}
+2024-08-31 22:32:33,122 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:33,653 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '37', 'languagecode': 'en-gb'}
+2024-08-31 22:32:33,653 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:33,862 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '39', 'languagecode': 'en-gb'}
+2024-08-31 22:32:33,863 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:34,025 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '35', 'languagecode': 'en-gb'}
+2024-08-31 22:32:34,026 - Fetched 25 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:34,385 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '38', 'languagecode': 'en-gb'}
+2024-08-31 22:32:34,386 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:34,572 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '40', 'languagecode': 'en-gb'}
+2024-08-31 22:32:34,573 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:34,725 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '36', 'languagecode': 'en-gb'}
+2024-08-31 22:32:34,725 - Fetched 7 reviews for hotel ID: 1097088 in language en-gb
+2024-08-31 22:32:35,086 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '39', 'languagecode': 'en-gb'}
+2024-08-31 22:32:35,086 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:35,362 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '41', 'languagecode': 'en-gb'}
+2024-08-31 22:32:35,362 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:35,568 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '37', 'languagecode': 'en-gb'}
+2024-08-31 22:32:35,569 - No more reviews found for hotel ID: 1097088 after page 37 in language en-gb
+2024-08-31 22:32:35,569 - Total reviews fetched for hotel ID: 1097088 in language en-gb: 882
+2024-08-31 22:32:35,569 - Total filtered reviews for hotel ID: 1097088 in language en-gb: 2
+2024-08-31 22:32:35,785 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '40', 'languagecode': 'en-gb'}
+2024-08-31 22:32:35,786 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:36,205 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '42', 'languagecode': 'en-gb'}
+2024-08-31 22:32:36,205 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:36,475 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '1', 'languagecode': 'en-us'}
+2024-08-31 22:32:36,476 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:36,532 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '41', 'languagecode': 'en-gb'}
+2024-08-31 22:32:36,532 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:36,959 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '43', 'languagecode': 'en-gb'}
+2024-08-31 22:32:36,960 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:37,315 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '42', 'languagecode': 'en-gb'}
+2024-08-31 22:32:37,315 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:37,390 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '2', 'languagecode': 'en-us'}
+2024-08-31 22:32:37,390 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:37,725 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '44', 'languagecode': 'en-gb'}
+2024-08-31 22:32:37,725 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:38,076 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '43', 'languagecode': 'en-gb'}
+2024-08-31 22:32:38,077 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:38,294 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '3', 'languagecode': 'en-us'}
+2024-08-31 22:32:38,295 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:38,568 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '45', 'languagecode': 'en-gb'}
+2024-08-31 22:32:38,569 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:38,797 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '44', 'languagecode': 'en-gb'}
+2024-08-31 22:32:38,797 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:39,181 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '4', 'languagecode': 'en-us'}
+2024-08-31 22:32:39,182 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:39,307 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '46', 'languagecode': 'en-gb'}
+2024-08-31 22:32:39,307 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:39,484 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '45', 'languagecode': 'en-gb'}
+2024-08-31 22:32:39,484 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:40,023 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '47', 'languagecode': 'en-gb'}
+2024-08-31 22:32:40,023 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:40,067 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '5', 'languagecode': 'en-us'}
+2024-08-31 22:32:40,068 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:40,335 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '46', 'languagecode': 'en-gb'}
+2024-08-31 22:32:40,336 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:40,760 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '48', 'languagecode': 'en-gb'}
+2024-08-31 22:32:40,761 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:41,080 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '47', 'languagecode': 'en-gb'}
+2024-08-31 22:32:41,081 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:41,537 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '49', 'languagecode': 'en-gb'}
+2024-08-31 22:32:41,539 - Fetched 25 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:41,596 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '6', 'languagecode': 'en-us'}
+2024-08-31 22:32:41,596 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:41,795 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '48', 'languagecode': 'en-gb'}
+2024-08-31 22:32:41,795 - Fetched 25 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:42,221 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '50', 'languagecode': 'en-gb'}
+2024-08-31 22:32:42,222 - Fetched 17 reviews for hotel ID: 1522663 in language en-gb
+2024-08-31 22:32:42,506 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '7', 'languagecode': 'en-us'}
+2024-08-31 22:32:42,507 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:42,546 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '49', 'languagecode': 'en-gb'}
+2024-08-31 22:32:42,547 - Fetched 14 reviews for hotel ID: 25002 in language en-gb
+2024-08-31 22:32:42,783 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '51', 'languagecode': 'en-gb'}
+2024-08-31 22:32:42,783 - No more reviews found for hotel ID: 1522663 after page 51 in language en-gb
+2024-08-31 22:32:42,783 - Total reviews fetched for hotel ID: 1522663 in language en-gb: 1242
+2024-08-31 22:32:42,783 - Total filtered reviews for hotel ID: 1522663 in language en-gb: 8
+2024-08-31 22:32:43,089 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '50', 'languagecode': 'en-gb'}
+2024-08-31 22:32:43,089 - No more reviews found for hotel ID: 25002 after page 50 in language en-gb
+2024-08-31 22:32:43,090 - Total reviews fetched for hotel ID: 25002 in language en-gb: 1214
+2024-08-31 22:32:43,090 - Total filtered reviews for hotel ID: 25002 in language en-gb: 1
+2024-08-31 22:32:43,396 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '8', 'languagecode': 'en-us'}
+2024-08-31 22:32:43,397 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:43,852 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '1', 'languagecode': 'en-us'}
+2024-08-31 22:32:43,853 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:32:44,030 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '1', 'languagecode': 'en-us'}
+2024-08-31 22:32:44,031 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:32:44,349 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '9', 'languagecode': 'en-us'}
+2024-08-31 22:32:44,350 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:44,604 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '2', 'languagecode': 'en-us'}
+2024-08-31 22:32:44,604 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:32:44,940 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '2', 'languagecode': 'en-us'}
+2024-08-31 22:32:44,941 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:32:45,199 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '10', 'languagecode': 'en-us'}
+2024-08-31 22:32:45,200 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:45,340 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '3', 'languagecode': 'en-us'}
+2024-08-31 22:32:45,340 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:32:45,787 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '3', 'languagecode': 'en-us'}
+2024-08-31 22:32:45,788 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:32:46,081 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '11', 'languagecode': 'en-us'}
+2024-08-31 22:32:46,082 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:46,185 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '4', 'languagecode': 'en-us'}
+2024-08-31 22:32:46,185 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:32:46,613 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '4', 'languagecode': 'en-us'}
+2024-08-31 22:32:46,613 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:32:47,024 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '5', 'languagecode': 'en-us'}
+2024-08-31 22:32:47,024 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:32:47,062 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '12', 'languagecode': 'en-us'}
+2024-08-31 22:32:47,063 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:47,579 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '5', 'languagecode': 'en-us'}
+2024-08-31 22:32:47,580 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:32:47,887 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '6', 'languagecode': 'en-us'}
+2024-08-31 22:32:47,888 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:32:47,944 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '13', 'languagecode': 'en-us'}
+2024-08-31 22:32:47,945 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:48,472 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '6', 'languagecode': 'en-us'}
+2024-08-31 22:32:48,473 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:32:48,736 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '7', 'languagecode': 'en-us'}
+2024-08-31 22:32:48,736 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:32:48,818 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '14', 'languagecode': 'en-us'}
+2024-08-31 22:32:48,819 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:49,322 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '7', 'languagecode': 'en-us'}
+2024-08-31 22:32:49,323 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:32:49,647 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '8', 'languagecode': 'en-us'}
+2024-08-31 22:32:49,647 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:32:49,682 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '15', 'languagecode': 'en-us'}
+2024-08-31 22:32:49,683 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:50,236 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '8', 'languagecode': 'en-us'}
+2024-08-31 22:32:50,237 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:32:50,552 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '16', 'languagecode': 'en-us'}
+2024-08-31 22:32:50,553 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:50,567 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '9', 'languagecode': 'en-us'}
+2024-08-31 22:32:50,567 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:32:51,134 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '9', 'languagecode': 'en-us'}
+2024-08-31 22:32:51,135 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:32:51,403 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '17', 'languagecode': 'en-us'}
+2024-08-31 22:32:51,403 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:51,442 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '10', 'languagecode': 'en-us'}
+2024-08-31 22:32:51,443 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:32:51,983 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '10', 'languagecode': 'en-us'}
+2024-08-31 22:32:51,984 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:32:52,194 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '18', 'languagecode': 'en-us'}
+2024-08-31 22:32:52,195 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:52,279 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '11', 'languagecode': 'en-us'}
+2024-08-31 22:32:52,279 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:32:52,875 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '11', 'languagecode': 'en-us'}
+2024-08-31 22:32:52,876 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:32:52,892 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '19', 'languagecode': 'en-us'}
+2024-08-31 22:32:52,892 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:53,128 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '12', 'languagecode': 'en-us'}
+2024-08-31 22:32:53,128 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:32:53,745 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '12', 'languagecode': 'en-us'}
+2024-08-31 22:32:53,746 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:32:54,000 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '20', 'languagecode': 'en-us'}
+2024-08-31 22:32:54,001 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:54,110 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '13', 'languagecode': 'en-us'}
+2024-08-31 22:32:54,111 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:32:54,740 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '21', 'languagecode': 'en-us'}
+2024-08-31 22:32:54,741 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:54,753 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '13', 'languagecode': 'en-us'}
+2024-08-31 22:32:54,753 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:32:55,004 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '14', 'languagecode': 'en-us'}
+2024-08-31 22:32:55,005 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:32:55,446 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '22', 'languagecode': 'en-us'}
+2024-08-31 22:32:55,446 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:55,589 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '14', 'languagecode': 'en-us'}
+2024-08-31 22:32:55,590 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:32:55,835 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '15', 'languagecode': 'en-us'}
+2024-08-31 22:32:55,836 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:32:56,394 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '23', 'languagecode': 'en-us'}
+2024-08-31 22:32:56,395 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:56,597 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '15', 'languagecode': 'en-us'}
+2024-08-31 22:32:56,598 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:32:56,711 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '16', 'languagecode': 'en-us'}
+2024-08-31 22:32:56,711 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:32:57,125 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '24', 'languagecode': 'en-us'}
+2024-08-31 22:32:57,125 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:57,528 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '17', 'languagecode': 'en-us'}
+2024-08-31 22:32:57,529 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:32:57,938 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '25', 'languagecode': 'en-us'}
+2024-08-31 22:32:57,939 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:58,197 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '16', 'languagecode': 'en-us'}
+2024-08-31 22:32:58,198 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:32:58,346 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '18', 'languagecode': 'en-us'}
+2024-08-31 22:32:58,347 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:32:58,738 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '26', 'languagecode': 'en-us'}
+2024-08-31 22:32:58,739 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:32:59,079 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '17', 'languagecode': 'en-us'}
+2024-08-31 22:32:59,080 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:32:59,208 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '19', 'languagecode': 'en-us'}
+2024-08-31 22:32:59,209 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:32:59,471 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '27', 'languagecode': 'en-us'}
+2024-08-31 22:32:59,472 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:33:00,049 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '18', 'languagecode': 'en-us'}
+2024-08-31 22:33:00,049 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:00,199 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '28', 'languagecode': 'en-us'}
+2024-08-31 22:33:00,200 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:33:00,349 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '20', 'languagecode': 'en-us'}
+2024-08-31 22:33:00,350 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:00,929 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '19', 'languagecode': 'en-us'}
+2024-08-31 22:33:00,929 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:01,067 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '29', 'languagecode': 'en-us'}
+2024-08-31 22:33:01,068 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:33:01,162 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '21', 'languagecode': 'en-us'}
+2024-08-31 22:33:01,163 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:01,789 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '20', 'languagecode': 'en-us'}
+2024-08-31 22:33:01,789 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:01,889 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '30', 'languagecode': 'en-us'}
+2024-08-31 22:33:01,890 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:33:01,993 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '22', 'languagecode': 'en-us'}
+2024-08-31 22:33:01,994 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:02,691 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '21', 'languagecode': 'en-us'}
+2024-08-31 22:33:02,693 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:02,843 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '23', 'languagecode': 'en-us'}
+2024-08-31 22:33:02,843 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:02,929 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '31', 'languagecode': 'en-us'}
+2024-08-31 22:33:02,930 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:33:03,545 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '22', 'languagecode': 'en-us'}
+2024-08-31 22:33:03,546 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:03,713 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '32', 'languagecode': 'en-us'}
+2024-08-31 22:33:03,714 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:33:03,857 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '24', 'languagecode': 'en-us'}
+2024-08-31 22:33:03,857 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:04,405 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '33', 'languagecode': 'en-us'}
+2024-08-31 22:33:04,406 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:33:04,423 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '23', 'languagecode': 'en-us'}
+2024-08-31 22:33:04,424 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:04,838 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '25', 'languagecode': 'en-us'}
+2024-08-31 22:33:04,838 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:05,299 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '24', 'languagecode': 'en-us'}
+2024-08-31 22:33:05,300 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:05,559 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '26', 'languagecode': 'en-us'}
+2024-08-31 22:33:05,560 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:05,563 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '34', 'languagecode': 'en-us'}
+2024-08-31 22:33:05,563 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:33:06,127 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '25', 'languagecode': 'en-us'}
+2024-08-31 22:33:06,128 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:06,277 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '35', 'languagecode': 'en-us'}
+2024-08-31 22:33:06,277 - Fetched 25 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:33:06,305 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '27', 'languagecode': 'en-us'}
+2024-08-31 22:33:06,307 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:06,871 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '36', 'languagecode': 'en-us'}
+2024-08-31 22:33:06,872 - Fetched 7 reviews for hotel ID: 1097088 in language en-us
+2024-08-31 22:33:07,037 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '26', 'languagecode': 'en-us'}
+2024-08-31 22:33:07,038 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:07,286 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '28', 'languagecode': 'en-us'}
+2024-08-31 22:33:07,287 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:07,843 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1097088', 'sort_option_id': 'sort_most_relevant', 'page_number': '37', 'languagecode': 'en-us'}
+2024-08-31 22:33:07,844 - No more reviews found for hotel ID: 1097088 after page 37 in language en-us
+2024-08-31 22:33:07,844 - Total reviews fetched for hotel ID: 1097088 in language en-us: 882
+2024-08-31 22:33:07,844 - Total filtered reviews for hotel ID: 1097088 in language en-us: 2
+2024-08-31 22:33:07,844 - Completed fetching reviews for hotel ID: 1097088. Total reviews fetched: 4
+2024-08-31 22:33:08,022 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '29', 'languagecode': 'en-us'}
+2024-08-31 22:33:08,023 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:08,072 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '27', 'languagecode': 'en-us'}
+2024-08-31 22:33:08,073 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:08,765 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '30', 'languagecode': 'en-us'}
+2024-08-31 22:33:08,766 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:08,955 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '28', 'languagecode': 'en-us'}
+2024-08-31 22:33:08,956 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:09,487 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '31', 'languagecode': 'en-us'}
+2024-08-31 22:33:09,488 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:09,653 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '29', 'languagecode': 'en-us'}
+2024-08-31 22:33:09,654 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:10,202 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '32', 'languagecode': 'en-us'}
+2024-08-31 22:33:10,202 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:10,385 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '30', 'languagecode': 'en-us'}
+2024-08-31 22:33:10,386 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:11,024 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '33', 'languagecode': 'en-us'}
+2024-08-31 22:33:11,025 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:11,195 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '31', 'languagecode': 'en-us'}
+2024-08-31 22:33:11,195 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:11,732 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '34', 'languagecode': 'en-us'}
+2024-08-31 22:33:11,732 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:11,895 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '32', 'languagecode': 'en-us'}
+2024-08-31 22:33:11,895 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:12,456 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '35', 'languagecode': 'en-us'}
+2024-08-31 22:33:12,456 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:12,646 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '33', 'languagecode': 'en-us'}
+2024-08-31 22:33:12,647 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:13,355 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '34', 'languagecode': 'en-us'}
+2024-08-31 22:33:13,356 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:13,821 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '36', 'languagecode': 'en-us'}
+2024-08-31 22:33:13,821 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:14,275 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '35', 'languagecode': 'en-us'}
+2024-08-31 22:33:14,275 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:14,662 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '37', 'languagecode': 'en-us'}
+2024-08-31 22:33:14,663 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:15,038 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '36', 'languagecode': 'en-us'}
+2024-08-31 22:33:15,039 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:15,396 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '38', 'languagecode': 'en-us'}
+2024-08-31 22:33:15,396 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:15,791 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '37', 'languagecode': 'en-us'}
+2024-08-31 22:33:15,792 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:16,123 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '39', 'languagecode': 'en-us'}
+2024-08-31 22:33:16,123 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:16,496 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '38', 'languagecode': 'en-us'}
+2024-08-31 22:33:16,496 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:16,953 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '40', 'languagecode': 'en-us'}
+2024-08-31 22:33:16,953 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:17,237 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '39', 'languagecode': 'en-us'}
+2024-08-31 22:33:17,237 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:17,650 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '41', 'languagecode': 'en-us'}
+2024-08-31 22:33:17,651 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:18,024 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '40', 'languagecode': 'en-us'}
+2024-08-31 22:33:18,024 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:18,433 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '42', 'languagecode': 'en-us'}
+2024-08-31 22:33:18,433 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:18,704 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '41', 'languagecode': 'en-us'}
+2024-08-31 22:33:18,704 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:19,154 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '43', 'languagecode': 'en-us'}
+2024-08-31 22:33:19,154 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:19,418 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '42', 'languagecode': 'en-us'}
+2024-08-31 22:33:19,418 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:19,873 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '44', 'languagecode': 'en-us'}
+2024-08-31 22:33:19,874 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:20,590 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '45', 'languagecode': 'en-us'}
+2024-08-31 22:33:20,592 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:20,692 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '43', 'languagecode': 'en-us'}
+2024-08-31 22:33:20,693 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:21,343 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '46', 'languagecode': 'en-us'}
+2024-08-31 22:33:21,344 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:21,395 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '44', 'languagecode': 'en-us'}
+2024-08-31 22:33:21,396 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:22,045 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '47', 'languagecode': 'en-us'}
+2024-08-31 22:33:22,046 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:22,098 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '45', 'languagecode': 'en-us'}
+2024-08-31 22:33:22,099 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:22,776 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '48', 'languagecode': 'en-us'}
+2024-08-31 22:33:22,777 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:22,814 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '46', 'languagecode': 'en-us'}
+2024-08-31 22:33:22,815 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:23,473 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '49', 'languagecode': 'en-us'}
+2024-08-31 22:33:23,474 - Fetched 25 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:23,600 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '47', 'languagecode': 'en-us'}
+2024-08-31 22:33:23,601 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:24,218 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '50', 'languagecode': 'en-us'}
+2024-08-31 22:33:24,219 - Fetched 17 reviews for hotel ID: 1522663 in language en-us
+2024-08-31 22:33:24,337 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '48', 'languagecode': 'en-us'}
+2024-08-31 22:33:24,338 - Fetched 25 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:24,839 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '1522663', 'sort_option_id': 'sort_most_relevant', 'page_number': '51', 'languagecode': 'en-us'}
+2024-08-31 22:33:24,839 - No more reviews found for hotel ID: 1522663 after page 51 in language en-us
+2024-08-31 22:33:24,839 - Total reviews fetched for hotel ID: 1522663 in language en-us: 1242
+2024-08-31 22:33:24,839 - Total filtered reviews for hotel ID: 1522663 in language en-us: 8
+2024-08-31 22:33:24,839 - Completed fetching reviews for hotel ID: 1522663. Total reviews fetched: 16
+2024-08-31 22:33:25,050 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '49', 'languagecode': 'en-us'}
+2024-08-31 22:33:25,050 - Fetched 14 reviews for hotel ID: 25002 in language en-us
+2024-08-31 22:33:25,589 - Fetching data from URL: https://booking-com15.p.rapidapi.com/api/v1/hotels/getHotelReviews with params: {'hotel_id': '25002', 'sort_option_id': 'sort_most_relevant', 'page_number': '50', 'languagecode': 'en-us'}
+2024-08-31 22:33:25,589 - No more reviews found for hotel ID: 25002 after page 50 in language en-us
+2024-08-31 22:33:25,589 - Total reviews fetched for hotel ID: 25002 in language en-us: 1214
+2024-08-31 22:33:25,589 - Total filtered reviews for hotel ID: 25002 in language en-us: 1
+2024-08-31 22:33:25,589 - Completed fetching reviews for hotel ID: 25002. Total reviews fetched: 2
+2024-08-31 22:33:25,591 - Execution finished in 1.44 minutes.
